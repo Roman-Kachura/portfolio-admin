@@ -1,3 +1,3 @@
 window.env = {
-  "SERVER_URL": "https://portfolio-services-hcmo.onrender.com/" || "http://localhost:5000/"
+  "SERVER_URL": "https://roman-kachura-portfolio.netlify.app" || "http://localhost:5000/"
 };
